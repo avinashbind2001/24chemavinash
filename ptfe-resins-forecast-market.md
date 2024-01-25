@@ -32,7 +32,7 @@ Global PTFE (Polytetrafluoroethylene) Resins Market Segment Percentages, by Appl
 Chemical Industry
 Mechanical Industry
 Oil & Gas
-Medical Industry
+Medical Industry.
 Electronic Industry
 Optical
 Others
